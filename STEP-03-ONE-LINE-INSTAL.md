@@ -23,3 +23,4 @@ sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/s-gor/xray-xhttp-v2
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/s-gor/xray-xhttp-v2/main/scripts/install-fixed-final.sh)"
 ```
+
