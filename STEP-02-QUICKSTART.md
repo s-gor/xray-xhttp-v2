@@ -282,4 +282,3 @@ bash -c 'source /root/xray-xhttp-values.env; curl -I "https://$DOMAIN"'
 
 cat /root/xray-client-link.txt
 ```
-
