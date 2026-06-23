@@ -19,3 +19,4 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/s-gor/xray-xhttp-v2/main
 ```
 
 После подтверждения скрипт создаст резервную копию и удалит установку Xray + XHTTP.
+
