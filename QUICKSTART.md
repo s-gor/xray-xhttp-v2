@@ -4,9 +4,7 @@
 
 ```bash
 apt update && apt upgrade -y
-
 apt install -y curl wget unzip tar nginx dnsutils ca-certificates openssl cron
-
 systemctl enable --now nginx
 systemctl enable --now cron
 ```
